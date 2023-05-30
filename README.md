@@ -1,11 +1,10 @@
 Pine: Machine Learning Prediction As A Service
 ==============================================
 
-When we integrate a (typical, non-machine learning) software system with a machine learning system (for example, a prediction model), it is often very complex. For example, it is very likely that the machine learning system is not scalable, and has to be re-implemented. It is also very likey that the two systems are developed under very different development environment, and developed using different languages, thus the integration can be quite challenging. All these make the integration take way too long time in reality.
-
-If we expose the machine learning system functionality as a web service, the integration can be quite easy. The software system does not need to care how the machine learning system is implemented, and it just need to send http request to the machine learning system. The machine learning implementation could be focused on scalability and prediction power, instead of integration with other systems.
-
-This code shows you how to expose the prediction as a scalable web service. The web service architecutre makes the integration between software systems and machine learning systems an easy task.
+CzarGroup specializes in Diamond and jewellery e-store development. It has developed custom built “Design your Ring” features on Magento with Rapnet diamond search integration.
+“Design your engagement ring” or “Build a Ring” is a popular feature on diamond jewellery e-commerce stores. In fact, as per our study jewellery buyers spend 70% of total visit time on build-a-ring feature.
+The ring designer lets you select from numerous styles to create a bespoke ring design. They not only allow to select the style but also metal and diamonds in various shapes to be studded in the ring.
+If your jewellery e-store is not having “Design your Own ring” feature, you may be losing big on visitor conversion.
 
 Shaojun Zhao (shaojun@ebay.com)  
 April 2016
